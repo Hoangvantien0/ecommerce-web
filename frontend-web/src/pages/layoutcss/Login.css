@@ -1,0 +1,33 @@
+
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+
+}
+.login__form--container{
+	/* background-color: #9A616D; */
+	background-color: #b7a6c3;
+
+	
+	
+}
+.login__form{
+	text-align: left;
+	height: 180px;
+	margin-right: 40px;
+}
+.text-center {
+	font-size: 120%;
+	
+}
+.link--to{
+	color: #eee;
+}
+.text-form{
+	font-size: 150%;
+	background-color:  #eceeed;
+	/* background-color: rgb(236, 231, 225); */
+}
